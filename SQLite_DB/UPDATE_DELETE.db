@@ -1,0 +1,6 @@
+/* Update Eelete*/
+/* SQLite -> SQLite3 */
+UPDATE topics SET title='SQLite3', body='SQLite3 is ...' WHERE id=1; 
+/* DELETE 
+id =3인 ORACLE 삭제하기 */
+DELETE FROM topics WHERE id = 3;

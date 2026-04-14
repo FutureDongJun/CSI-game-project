@@ -1,0 +1,10 @@
+/* Create */
+INSERT INTO topics 
+    (title, body, created, author_profile, author_name)
+VALUES(
+    'SQL Server',
+    'SQL Server is ..',
+    '2023-01-26',
+    'DBA',
+    'duru'
+)
